@@ -1,0 +1,14 @@
+build/*.js
+src/assets
+public
+dist
+src/modules
+src/app/monitor.es.js
+src/**/*.min.js
+src/**/*.min.css
+src/**/*.min.map
+src/**/*.map
+libs
+.eslint-globals.json
+auto-imports.js
+/firsstvue/src/views/Home/Title.vue
